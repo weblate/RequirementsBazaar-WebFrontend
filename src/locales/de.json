@@ -140,5 +140,6 @@
     "landing-activeUsersCountLabel": "Aktive Benutzer",
     "landing-projectsCountLabel": "Projekte",
     "landing-requirementsCountLabel": "Anforderungen",
-    "landing-lastMonthLabel": "letzter Monat"
+    "landing-lastMonthLabel": "letzter Monat",
+    "landing-featureDiscussTitle": "Mit Benutzern diskutieren"
 }
